@@ -1,0 +1,174 @@
+.toast-style {
+    background-color: blueviolet;
+    height: 50px;
+    font-size: large;
+    width: 230px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.exercise-container {
+    background-color:
+        rgb(207, 225, 240);
+    max-height: 500vh;
+
+}
+
+.add-a-break {
+    background-color: whitesmoke;
+    height: 50px;
+    font-size: large;
+    width: 230px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 3px 20px 3px rgb(191, 180, 180);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+
+.products-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    gap: 2%;
+    margin-left: 2%;
+    margin-bottom: 5%;
+    width: 90%
+}
+
+.sidebar-container {
+    background-color: whitesmoke;
+    max-height: 500vh;
+    position: sticky;
+    top: 0;
+    padding: 10px 15px;
+
+}
+
+.logo-size {
+    width: 170px;
+    height: 100px;
+
+
+}
+
+.askedQuestion-container {
+    border: 2px solid rgb(120, 149, 178);
+    background-color: rgb(232, 223, 202);
+    min-height: 300px;
+    width: 70%;
+    border-radius: 10px;
+    margin: auto;
+    margin-bottom: 5%;
+}
+
+
+h4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+.text-style {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+.faq-style {
+    margin: 20px;
+}
+
+.btn-style {
+    border: 1px solid grey;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-left: 4px;
+
+}
+
+.btn-style:hover {
+    color: white;
+    background-color: cornflowerblue;
+
+}
+
+.header {
+    padding: 120px 0 20px 30px;
+
+
+}
+
+.exercise-details {
+    background-color: whitesmoke;
+    height: 50px;
+    font-size: large;
+    width: 230px;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 3px 20px 3px rgb(191, 180, 180);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.grayColor {
+    color: rgb(171, 162, 162);
+    font-weight: normal;
+}
+
+.Add-to-break {
+    background-color: whitesmoke;
+    height: 50px;
+    font-size: large;
+    width: 230px;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 3px 20px 3px rgb(191, 180, 180);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.personal-info {
+    background-color: whitesmoke;
+    height: 300px;
+    font-size: large;
+    width: 250px;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 3px 20px 3px rgb(191, 180, 180);
+    margin-bottom: 40px;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+.greyColor {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+@media screen and (max-width:480px) {
+    .products-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .container {
+        grid-template-columns: 1fr;
+    }
+}

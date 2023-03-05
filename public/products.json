@@ -1,0 +1,50 @@
+[
+    {
+        "id": "0101",
+        "name": "Cable Motion",
+        "details": "Life Fitness Cable Motion Technology delivers effective and versatile multi-dimensional strength training. User-defined paths of motion allow for nearly endless exercise possibilities and build balance, strength and power.",
+        "img": "images/cablemotion.jpg",
+        "forAge": "25-30",
+        "timeRequired": 60
+    },
+    {
+        "id": "0102",
+        "name": "Stability Ball",
+        "details": "Anti-rollaway technology allows you to focus on your exercise and makes sure your stability ball stays put. Ability and Flexibility Mobility is more than range of motion--it is for optimizing the way the body works and performs. Mobility accessories allow exercisers to improve their flexibility and flexibility and physical performance with products used before, during and after workouts.",
+        "img": "images/stabilityball.jpg",
+        "forAge": "20-25",
+        "timeRequired": 30
+    },
+    {
+        "id": "0103",
+        "name": "12-Side Urethane Barbells",
+        "details": "12-sided urethane barbells are made entirely in the USA with anti-roll heads and straight or EZ curl handles. They also prominently display bright, easy-to-see weight numbers.",
+        "img": "images/12side.jpg",
+        "forAge": "25-28",
+        "timeRequired": 45
+    },
+    {
+        "id": "0104",
+        "name": "Battle Ropes",
+        "details": "Battle Ropes are an essential training tool for any progressive small group training experience. Battle ropes challenge the core, forearms, grip strength and conditioning. They also raise the heart rate, making them perfect for HIIT classes and cardio conditioning.",
+        "img": "images/battlerope.jpg",
+        "forAge": "25-28",
+        "timeRequired": 30
+    },
+    {
+        "id": "0105",
+        "name": "Racks and Rigs",
+        "details": "HD Elite™ is a modular rack system made with Zero Deflection Technology to absorb and withstand repeated impact. athletes deserve to execute your program, set up in your configuration, and get their reps in on equipment that doesnot flinch under any load.",
+        "img": "images/racksandrigs.jpg",
+        "forAge": "25-30",
+        "timeRequired": 50
+    },
+    {
+        "id": "0106",
+        "name": "Plate-Loaded Iso-Lateral Decline Chest Press",
+        "details": "The Plate-Loaded Iso-Lateral Decline Chest Press was blueprinted from human movement. Separate weight horns engage independent diverging and converging motions for equal strength development and muscle stimulation variety. Upright positioning and seat belt provide stabilization for all exercisers.",
+        "img": "images/plateloaded.jpg",
+        "forAge": "20-28",
+        "timeRequired": 60
+    }
+]
